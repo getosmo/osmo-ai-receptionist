@@ -8,7 +8,7 @@
     "url": "https://getosmo.app"
   },
   "homepage": "https://getosmo.app/for-my-ai",
-  "repository": "https://github.com/Mountainheads-Private-limited/osmo-ai-receptionist",
+  "repository": "https://github.com/getosmo/osmo-ai-receptionist",
   "license": "MIT",
   "keywords": ["ai-receptionist", "answering-service", "call-screening", "missed-calls", "spam-calls", "virtual-receptionist"],
   "logo": "assets/logo.png",

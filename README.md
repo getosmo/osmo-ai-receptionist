@@ -27,6 +27,6 @@ More clients: [`skills/osmo-ai-receptionist/SKILL.md`](skills/osmo-ai-receptioni
 
 Needs the OsmO app (https://getosmo.app/app) with a plan and call forwarding on. To have your AI
 place calls to businesses and other numbers, see
-[OsmO Phone Calls](https://github.com/Mountainheads-Private-limited/osmo-ai-plugins).
+[OsmO Phone Calls](https://github.com/getosmo/osmo-ai-plugins).
 
 Terms: https://getosmo.app/terms · Privacy: https://getosmo.app/privacy · License: MIT
