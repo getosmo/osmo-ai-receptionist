@@ -1,0 +1,16 @@
+{
+  "name": "osmo-ai-receptionist",
+  "displayName": "OsmO AI Receptionist",
+  "version": "1.0.0",
+  "description": "OsmO AI Receptionist: an AI phone receptionist and answering service for your own number. OsmO's AI answers your calls, screens spam and takes messages and booking requests. From Cursor see missed calls and who called and why, open summaries, transcripts and recordings, screen a caller, call back someone who called you in the last 30 days, and change who is put through, VIP and block lists, caller rules and the assistant's language. Every call back and change is shown to you first. Needs an OsmO app plan with call forwarding.",
+  "author": {
+    "name": "OsmO AI",
+    "url": "https://getosmo.app"
+  },
+  "homepage": "https://getosmo.app/for-my-ai",
+  "repository": "https://github.com/Mountainheads-Private-limited/osmo-ai-receptionist",
+  "license": "MIT",
+  "keywords": ["ai-receptionist", "answering-service", "call-screening", "missed-calls", "spam-calls", "virtual-receptionist"],
+  "logo": "assets/logo.png",
+  "skills": "./skills/"
+}
