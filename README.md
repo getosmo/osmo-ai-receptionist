@@ -1,5 +1,10 @@
 # OsmO AI Receptionist
 
+<p>
+  <a href="https://glama.ai/mcp/connectors/app.getosmo/ai-receptionist"><img alt="OsmO AI Receptionist on Glama" src="https://glama.ai/mcp/connectors/app.getosmo/ai-receptionist/badges/score.svg"></a>
+  <a href="https://registry.modelcontextprotocol.io/v0.1/servers/app.getosmo%2Fai-receptionist/versions/latest"><img alt="MCP Registry: app.getosmo/ai-receptionist" src="https://img.shields.io/badge/MCP_Registry-app.getosmo%2Fai--receptionist-blue"></a>
+</p>
+
 An AI phone receptionist and answering service for your own number, run from your AI app
 (Claude, ChatGPT, Cursor, Grok, Codex, OpenClaw, Hermes and any MCP client).
 
