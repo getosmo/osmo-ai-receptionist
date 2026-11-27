@@ -10,7 +10,19 @@
   "homepage": "https://getosmo.app/for-my-ai",
   "repository": "https://github.com/getosmo/osmo-ai-receptionist",
   "license": "MIT",
-  "keywords": ["ai-receptionist", "answering-service", "call-screening", "missed-calls", "spam-calls", "virtual-receptionist"],
+  "keywords": [
+    "ai-receptionist",
+    "answering-service",
+    "call-screening",
+    "missed-calls",
+    "spam-calls",
+    "virtual-receptionist",
+    "receptionist",
+    "AI receptionist",
+    "phone",
+    "phone-call",
+    "ai-phone-receptionist"
+  ],
   "logo": "assets/logo.png",
   "skills": "./skills/"
 }
